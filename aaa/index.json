@@ -3,7 +3,13 @@
   "details": {
     "intro": {
       "text": "intro.md"
-    }
+    },
+    "steps": [
+      {
+        "title": "List files",
+        "text": "step1.md"
+      }
+    ],
   },
   "backend": {
     "imageid": "ubuntu"
