@@ -1,4 +1,4 @@
 
-Run `ls -ltr`
+Run copy: `ls -ltr`
 
-ls -lh{{exec}}
+Run exec: `ls -lh`{{exec}}
