@@ -9,11 +9,13 @@
         "title": "List files",
         "text": "step1.md"
       }
-    ]
-  },
-  "finish": {
+    ],
+    
+     "finish": {
       "text": "finish.md"
     }
+  },
+ 
   "backend": {
     "imageid": "ubuntu"
   }
